@@ -1,0 +1,29 @@
+.cardgif {
+	background: black;
+	border-top: 9px solid #212121;
+	color: white;
+	padding-top: 20px;
+	letter-spacing: 0.15rem;
+}
+
+.cardgif h1 {
+	font-size: 50px;
+	font-weight: 700;
+	padding-top: 120px;
+	padding-bottom: 50px;
+	margin-left: 40px;
+}
+
+.cardgif h2 {
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+	margin-left: 40px;
+}
+
+.cardgif img {
+	height: 400px;
+	width: 600px;
+	padding-top: 0px;
+} 
+     

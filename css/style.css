@@ -1,0 +1,252 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/cardgif.css");
+@import url("components/banner1.css");
+@import url("components/btn-red.css");
+@import url("components/gif.css");
+@import url("components/card2.css");
+@import url("components/card3.css");
+
+
+html {
+
+background-color:rgb(34,34,34);
+
+}
+body {
+
+	background-color:rgb(34,34,34);
+}
+
+p{
+	color:white;
+}
+
+h1{
+
+	color:white;
+}
+
+
+h2{
+	color:white;
+	font-size: 26px;
+	flex-wrap: wrap;
+}
+
+h3{
+
+	color:white;
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+
+input{
+
+	border-radius: 4%;
+	padding:18px 0px;
+	flex-wrap: wrap;
+
+}
+.card{
+
+	border-bottom: 9px solid #212121;
+}
+
+#imagenetflix{
+
+	padding-left: 40px;
+	height:120px;
+}
+
+#premierboutton{
+
+	padding-top: 24px;
+	padding-right: 60px;
+}
+
+#premier-titre{
+	text-align: center;
+	margin-bottom: -20px;
+	padding-bottom: 30px;
+	font-weight: 900;
+	font-size: 65px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+#soustitreun{
+
+	text-align: center;
+	padding-bottom: 20px;
+
+}
+
+#btn-redessayer{
+	background-color:rgb(229,9,20);
+	color:white;
+	font-size: 30px;
+	text-decoration: none;
+	border-radius:4%;
+}
+
+#phrasedessousmail{
+
+	text-align: center;
+	font-size: 20px;
+}
+
+#ligne4{
+
+	padding-bottom: 100px;
+}
+
+#ligne1 {
+
+	padding-bottom: 105px;
+}
+
+
+	
+
+#titrecarte1 {
+
+	padding-top: 80px;
+	font-size: 50px;
+}
+
+
+
+
+
+#ligne4 {
+
+	padding-bottom: 10px;
+}
+
+
+li{
+	list-style: none;
+}
+
+#faq{
+
+	text-align: center;
+	padding: 40px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 800;
+	font-size: 50px;
+}
+
+h3{
+	text-align: center;
+	font-size: 18px;
+	background-color: black;
+}
+
+#essayerbas{
+	text-align:center;
+	background-color:black;
+	padding-top:20px;
+	padding-bottom: 100px;
+}
+
+.content{
+
+  padding: 20px 10px;
+  padding-bottom: 10px;
+  display: none;
+  overflow: hidden;
+  background-color: #303030;
+  color: white;
+  letter-spacing: 0.1rem;
+  border: solid 7px black;
+  border-top:none;
+
+}
+
+#basdepage{
+
+	font-size: 12px;
+	color: rgb(117,117,98);
+}
+
+#colonnebas{
+
+	padding-top: 110px;
+}
+
+.collapsible{
+  background-color: #303030;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 90%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 20px;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 500;
+  border: solid 7px black;
+  border-bottom: solid 2px black;
+
+}
+
+#dqcn{
+
+	padding-top: 70px;
+}
+
+.card h1{
+
+	margin-left: 40px;
+}
+
+
+#last{
+
+	border-bottom: 9px solid #212121;
+}
+
+
+#francais{
+
+height:60px;
+width:120px;
+}
+
+.cardgif2 {
+	background: black;
+	border-bottom: : 9px solid #212121;
+	color: white;
+	padding-top: 20px;
+	letter-spacing: 0.15rem;
+}
+
+.cardgif2 h1 {
+	font-size: 50px;
+	font-weight: 700;
+	padding-top: 60px;
+	padding-bottom: 50px;
+	margin-left: 40px;
+}
+
+.cardgif2 h2 {
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 30px;
+	margin-left: 40px;
+}
+
+.cardgif2 img {
+	height: 400px;
+	width: 600px;
+	padding-top: 0px;
+} 
+
+#lastphrase{
+
+	padding-top: 60px;
+	margin:0px;
+	font-size: 20px;
+}
